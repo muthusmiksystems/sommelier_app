@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "589807182472",
+    "project_id": "sommlierapp-c6437",
+    "storage_bucket": "sommlierapp-c6437.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589807182472:android:af4ded6d2cba216b79753d",
+        "android_client_info": {
+          "package_name": "com.sommlierapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589807182472-6347r76cmflr95b66nfdjh8a9t3t79k3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sommlierapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "589807182472-b232tgrdquimtd1lfu45gbr61vlrccl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXdQnOvHia1pmfoZHoGeTJw4THI1pS928"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589807182472-b232tgrdquimtd1lfu45gbr61vlrccl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
